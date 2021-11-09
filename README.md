@@ -1,1 +1,1 @@
-# Detecting COVID 19 Using Convolution Neural Networks
+# Covid-19 detection using Convolution Neural Networks
